@@ -1,8 +1,8 @@
 # EMC2_gui_application
-This is a child project of the Easy Motor Control (EMC2) project. It contains source code of its GUI application. The application requires that you have the EMC2_driver module shield connected to your PC via USB serial communication to access its full functionality.
+This is a child project of the Easy Motor Control (EMC2) project. It contains source code of its GUI application. The application requires that you have the EMC2_driver module shield connected to your PC via USB serial communication to access its full functionality. without the shield only the start page can be viewed.
 
 ### App short clip
-![]()
+![](https://github.com/samuko-things/EMC2_gui_application/blob/main/docs/EMC2_app_view_gif.gif)
 
 ## Run the GUI app
 - Ensure you have python3 installed on your PC

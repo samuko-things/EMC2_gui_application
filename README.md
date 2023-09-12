@@ -2,8 +2,6 @@
 This is a child project of the Easy Motor Control (EMC2) project. It contains source code of its GUI application. The application requires that you have the EMC2_driver module shield (with the [EMC2_arduino_driver_code](https://github.com/samuko-things/EMC2_arduino_driver_code) uploaded to it) connected to your PC via USB serial communication to access its full functionality. without the shield only the start page can be viewed.
 
 ### App Demo
-
-![](https://github.com/samuko-things/EMC2_gui_application/blob/main/docs/emc2_app.gif)
 ![](./docs/emc2_app.gif)
 
 
